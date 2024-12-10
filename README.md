@@ -6,7 +6,8 @@ aby zaktualizować system i cieszyć się najnowszą wersją wszystkiego co tam 
 Ten program, jest szybki i sam wykona polecenia za Ciebie. Działa tylko na platformie linux
 (Ubuntu, Kali, Debian itp.), program na początku sprawdza czy posiadasz napewno jednego z Linux-ów
 następnie przystępuje do update, full-upgrade, autoremove i na końcu clean. Jeśli masz w systemie 
-condę, to przy okazji też zrobi aktualizację samej condy i jej wszystkich pakietów.
+condę (działa tylko na niektórych systemach), to przy okazji też zrobi aktualizację samej condy i jej 
+wszystkich pakietów.
 
 ### Wymagania
 
