@@ -37,7 +37,7 @@ if __name__ == "__main__":
     # jesli linux to zaktualizuj system
     # jesli windows to wyswietl komunikat
     if os.name == "nt":
-        print("Aktualizacja systemu nie jest dostępna na systemie Windows")
+        print("Ten program nie działa na systemie Windows")
         time.sleep(2)
         exit(0)
     else:
